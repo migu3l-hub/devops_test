@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-         String message= "default message cambio 1 pero ahora es el momento de hacer las pruebas de integracion continua eliminando la rama de github y ademas enviando una notificacion de slack";
+         String message= "default message pero ahora todo automatico";
          Assert.assertNotNull(message);
 	}
 
