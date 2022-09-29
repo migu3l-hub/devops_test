@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-         String message= "default message pero ahora todo automatico";
+         String message= "default message pero ahora todo automatico prueba para creacion de imagenes docker";
          Assert.assertNotNull(message);
 	}
 
